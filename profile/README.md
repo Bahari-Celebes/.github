@@ -29,8 +29,8 @@ Bahari is built upon three core pillars:
 We are a passionate team of three students from different disciplines, united by the vision to digitalize and uplift Indonesia's coastal economy:
 | Team Members | Academic Background | Core Focus & Responsibilities |
 | :--- | :--- | :--- |
-| **Warham Aliansa & Axel David** | Information System and Technology | Driving the software architecture, full-stack development, and technical innovation behind the Bahari platform. |
-| **La Ode Jumadil Ibrahim** | Master of Business Administration (MBA) | Leading the business strategy, cooperative partnership models, product positioning, and go-to-market planning. |
+| **Warham Aliansa & Axel David** | Master of Information System and Technology Student | Driving the software architecture, full-stack development, and technical innovation behind the Bahari platform. |
+| **La Ode Jumadil Ibrahim** | Master of Business Administration (MBA) Student | Leading the business strategy, cooperative partnership models, product positioning, and go-to-market planning. |
 
 ## 💻 Tech Stack
 
